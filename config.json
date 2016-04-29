@@ -1,2 +1,18 @@
 {
+  "game": {
+    "id": "dwarfs",
+    "name": ""
+  },
+  "client": {
+    "aspectRatio": 1
+  },
+  "ensemble": {
+    "maxPlayers": 1,
+    "pause": "never",
+    "autoSaveThrottle": 30
+  },
+  "debug": {
+    "develop": true,
+    "multiplayer": true
+  }
 }
